@@ -3,5 +3,5 @@
 
 | Date      | Link |
 |-----------|------|
-|  (Orientation) | [Link]() |
+|  (Orientation) | [--]() |
 | 29-Nov    | [Link](https://miro.com/app/board/uXjVJjXwq1s=/?share_link_id=582857355934) |
