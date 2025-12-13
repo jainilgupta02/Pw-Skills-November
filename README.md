@@ -8,4 +8,5 @@
 | 30-Nov    | [Link](https://miro.com/app/board/uXjVJil6IZs=/?share_link_id=138493298810) |
 | 06-Dec    | [Link](https://miro.com/app/board/uXjVGf-EPHo=/?share_link_id=878552859986) |
 | 07-Dec    | [Link](https://miro.com/app/board/uXjVGfMgRtw=/?share_link_id=13256192360) |
+| 13-Dec    | [Link](https://miro.com/app/board/uXjVGbiBhpQ=/?share_link_id=489927333300) |
 
