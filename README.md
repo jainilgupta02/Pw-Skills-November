@@ -28,7 +28,7 @@
 | 21-Feb | BDD / TDD with CI/CD  | [Link](https://miro.com/app/board/uXjVG9fzPmw=/?share_link_id=813994998325) |
 | 22-Feb | BDD / TDD with CI/CD: Soak - Stress Testing  | [Link](https://miro.com/app/board/uXjVG8tH6fw=/?share_link_id=516065732830) |
 | 28-Feb | SonarQube Fundamentals  | [Link](https://miro.com/app/board/uXjVG5GY7rM=/?share_link_id=719206681206) |
-| 1st-March | CD: Developement  | [Link](https://miro.com/app/board/uXjVG5beBrY=/?share_link_id=251554212538) |
+| 1st-March | CD: Advance  | [Link](https://miro.com/app/board/uXjVG5beBrY=/?share_link_id=251554212538) |
 
 
 
