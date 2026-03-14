@@ -31,7 +31,7 @@
 | 1st-March | CD: Advance  | [Link](https://miro.com/app/board/uXjVG5beBrY=/?share_link_id=251554212538) |
 | 7th-March | Deployment strategies  | [Link](https://miro.com/app/board/uXjVG11v37c=/?share_link_id=447379891414) |
 | 8th-March | Configuration Management: Ansible  | [Link](https://miro.com/app/board/uXjVG1K0cdE=/?share_link_id=595149437210) |
-
+| 10th-March | Configuration Management: Ansible - 2  | [Link](https://miro.com/app/board/uXjVGxm0pfA=/?share_link_id=685542313014) |
 
 
 
